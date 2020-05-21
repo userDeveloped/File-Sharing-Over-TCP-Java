@@ -2,7 +2,7 @@
 
 Simple file sharing between Client and Server in java.
 
-# How to compile correctly?
+# How to compile correctly!
 
 First: 	
 
